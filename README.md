@@ -6,7 +6,7 @@ I am currently working as the Outreach Team Lead at PES, an NGO. I'm pursuing a 
 ## Skills
 - **Programming Languages:** C/C++, Python (Basic)
 - **Web Development:** HTML, CSS, JavaScript (Basic)
-- **Hardware Description:** Verilog
+- **Hardware Description:** Verilog (working on it)
 - **Interests:** Machine Learning, Core Electrical, Digital Electronics
 
 ## Experience
@@ -33,7 +33,7 @@ I am currently working as the Outreach Team Lead at PES, an NGO. I'm pursuing a 
 - **LoRa Communication Shield for Mobile Phones**
   - GitHub: [LoRa Communication Shield](https://github.com/nakulgprbs/LoRa-communication-.git)
 
-### C++ Projects
+### C++ Projects Using OOPs
 1. **Bank Management System**
    - GitHub: [Bank Management System](https://github.com/nakulgprbs/Bank-Management-System.git)
 2. **ATM Machine**
@@ -42,9 +42,9 @@ I am currently working as the Outreach Team Lead at PES, an NGO. I'm pursuing a 
 ## Social Media
 Feel free to reach out to me for collaboration or any queries. You can contact me at [2022eeb1192@iitrpr.ac.in](mailto:2022eeb1192@iitrpr.ac.in).
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [GitHub](https://github.com/your-github-username)
-- [HackerRank](https://www.hackerrank.com/your-hackerrank-profile)
+- [LinkedIn](https://www.linkedin.com/in/nakul-750121258/)
+- [GitHub](https://github.com/nakulgprbs)
+- [HackerRank](https://www.hackerrank.com/profile/2022eeb1192)
 
 ---
 
