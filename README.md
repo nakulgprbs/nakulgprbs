@@ -13,23 +13,38 @@ I am currently working as the Outreach Team Lead at PES, an NGO. I'm pursuing a 
 - **Outreach Team Lead at PES (NGO)**
   - Leading and managing outreach activities to expand the organization's impact.
   - Collaborating with team members to plan and execute various projects.
+  - Completed a teacher training program in collaboration with the DC of Ropar district as a team member.
 
 ## Projects
-- **Machine Learning Projects:**
-  - Currently working on learning and implementing machine learning algorithms and models.
 
-- **Web Development:**
-  - Developed basic websites using HTML, CSS, and JavaScript.
+### Machine Learning
+1. **Movie Recommendation System**
+   - GitHub: [Movie Recommendation System](https://github.com/nakulgprbs/Movie-Recommendation-System.git)
+2. **Spam Mail Prediction**
+   - GitHub: [Spam Mail Prediction](https://github.com/nakulgprbs/Spam-Mail-Prediction-using-machine-learning.git)
 
-- **Electronics Projects:**
-  - Worked on various digital electronics projects using Verilog.
+### Web Development
+- **Notes Website**
+  - Live: [Notes Website](https://mr-iittian-notes.vercel.app/)
+- **Portfolio**
+  - Live: [Portfolio](https://portfolio-nakulgprbs-projects.vercel.app/)
 
-## Contact Me
+### Electronics
+- **LoRa Communication Shield for Mobile Phones**
+  - GitHub: [LoRa Communication Shield](https://github.com/nakulgprbs/LoRa-communication-.git)
+
+### C++ Projects
+1. **Bank Management System**
+   - GitHub: [Bank Management System](https://github.com/nakulgprbs/Bank-Management-System.git)
+2. **ATM Machine**
+   - GitHub: [ATM Machine](https://github.com/nakulgprbs/ATM-Machine.git)
+
+## Social Media
 Feel free to reach out to me for collaboration or any queries. You can contact me at [2022eeb1192@iitrpr.ac.in](mailto:2022eeb1192@iitrpr.ac.in).
 
-## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [GitHub](https://github.com/your-github-username)
+- [HackerRank](https://www.hackerrank.com/your-hackerrank-profile)
 
 ---
 
